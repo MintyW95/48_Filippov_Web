@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1xWEATHER</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hvernig er veðrið í dag, Jón?</h1>
+        <nav>
+            <ul>
+                <li><a href="#" data-section="bets">СТАВКИ</a></li>
+                <li><a href="#" data-section="weather">ПОГОДА СЕЙЧАС</a></li>
+                <li><a href="#" data-section="currency">КУРС ВАЛЮТ</a></li>
+                <li><a href="#" data-section="slot">СЛОТЫ</a></li>
+            </ul>
+        </nav>
+        <button onclick="resetAllData()" class="reset-btn">🗑️</button>
+    </header>
+
+    <main class="main-content">
+        <section id="bets" class="section">
+            <h2>Ставки на погоду завтра</h2>
+            <div class="form-container">
+                <select id="betCitySelect"></select>
+                <select id="betWeatherSelect"></select>
+                <button onclick="placeBet()">ПОСТАВИТЬ</button>
+            </div>
+            <div id="betsList" class="deck-container"></div>
+        </section>
+
+        <section id="weather" class="section">
+            <h2>Погода в Исландии сейчас</h2>
+            <div class="form-container">
+                <select id="citySelect" style="flex:1; min-width:240px;"></select>
+                <button onclick="fetchCurrentWeather()">ОБНОВИТЬ ПОГОДУ</button>
+            </div>
+            <div id="weatherResult"></div>
+        </section>
+
+        <section id="currency" class="section">
+            <h2>Курс валют $ (доллар USD)</h2>
+            <div class="form-container">
+                <button onclick="fetchCurrencyRates()">ОБНОВИТЬ КУРС</button>
+            </div>
+            <div id="currencyResult"></div>
+        </section>
+
+        <section id="slot" class="section">
+            <h2>Вспомогательный депчик</h2>
+            <div class="slot-machine">
+                <div class="slots" id="slots">
+                    <div class="slot" id="slot1">❓</div>
+                    <div class="slot" id="slot2">❓</div>
+                    <div class="slot" id="slot3">❓</div>
+                </div>
+                <button onclick="spinSlot()">КРУТИТ</button>
+                <div class="result" id="slotResult"></div>
+            </div>
+        </section>
+        <footer><i>Как говорят, в Исландии самая непредсказуемая в мире погода. Почему бы не попытаться её предугадать?</i></footer>
+    </main>
+    <script src="storage.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

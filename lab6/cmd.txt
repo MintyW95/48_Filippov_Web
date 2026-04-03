@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -Command "npx json-server bets.json -w -p 3000"

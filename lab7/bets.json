@@ -1,0 +1,765 @@
+{
+  "bets": [
+    {
+      "id": "RJPsTmOkgcE",
+      "city": "Reykjavík",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "08.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "faK-oGlT7is",
+      "city": "Kópavogur",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "05.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "y7itFfSKbk8",
+      "city": "Hafnarfjörður",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "F4eg2QyMnzI",
+      "city": "Reykjanesbær",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "09.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "9ndI2KqXjhg",
+      "city": "Akureyri",
+      "predicted": "🌫️",
+      "status": "выиграно",
+      "date": "10.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "06FHDiafMgg",
+      "city": "Garðabær",
+      "predicted": "🌤️",
+      "status": "выиграно",
+      "date": "15.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "PrW19-rPX0c",
+      "city": "Mosfellsbær",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "xhH8giCleGA",
+      "city": "Árborg",
+      "predicted": "⛈️",
+      "status": "проиграно",
+      "date": "27.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "kT862JL6WQg",
+      "city": "Akranes",
+      "predicted": "❄️",
+      "status": "выиграно",
+      "date": "05.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "J6-tFkt1a8s",
+      "city": "Seltjarnarnes",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "yIgAYYTBgrQ",
+      "city": "Vestmannaeyjar",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "29.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "tSRdfD3P_Vc",
+      "city": "Grindavík",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "17.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "yo7s9qhvrO8",
+      "city": "Ísafjörður",
+      "predicted": "❄️",
+      "status": "выиграно",
+      "date": "18.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "vTLae1p5lAI",
+      "city": "Húsavík",
+      "predicted": "🌫️",
+      "status": "проиграно",
+      "date": "02.04.2026",
+      "isOwn": false
+    },
+    {
+      "id": "k4mOUXgA-X4",
+      "city": "Egilsstaðir",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "24.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "WQfY-a4698A",
+      "city": "Borgarnes",
+      "predicted": "☁️",
+      "status": "выиграно",
+      "date": "15.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "UOQQ1LuL8VA",
+      "city": "Seyðisfjörður",
+      "predicted": "🌫️",
+      "status": "выиграно",
+      "date": "13.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "KHXsJrwnyyQ",
+      "city": "Höfn",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "31.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "xMWagDgi248",
+      "city": "Sauðárkrókur",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "12.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "aSSxh21L5Wk",
+      "city": "Siglufjörður",
+      "predicted": "🌤️",
+      "status": "проиграно",
+      "date": "28.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "CBZ0-f3t8Yo",
+      "city": "Ólafsvík",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "24.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "6sfGbR2L52Q",
+      "city": "Vík í Mýrdal",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "19.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "CvXobhr5VQ8",
+      "city": "Blönduós",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "20.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "k7zlcUO45GY",
+      "city": "Dalvík",
+      "predicted": "🌤️",
+      "status": "проиграно",
+      "date": "27.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "LaZVdnCMTRY",
+      "city": "Hella",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "19.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "3YkKnLUCKgk",
+      "city": "Hvolsvöllur",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "27.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "rSx9ULXT3JY",
+      "city": "Stykkishólmur",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "_z-j2vTu4VU",
+      "city": "Patreksfjörður",
+      "predicted": "🌫️",
+      "status": "выиграно",
+      "date": "02.04.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Reu8UKU28SM",
+      "city": "Bolungarvík",
+      "predicted": "☁️",
+      "status": "проиграно",
+      "date": "26.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "WIuTlzDFeFk",
+      "city": "Fáskrúðsfjörður",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "22.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "F-wTNLbtuaI",
+      "city": "Reykjavík",
+      "predicted": "⛈️",
+      "status": "проиграно",
+      "date": "20.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "w33VR5gJLXU",
+      "city": "Kópavogur",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "21.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "ZbwaYPTccKI",
+      "city": "Hafnarfjörður",
+      "predicted": "⛈️",
+      "status": "проиграно",
+      "date": "10.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "URRu8F5j4rU",
+      "city": "Reykjanesbær",
+      "predicted": "🌫️",
+      "status": "проиграно",
+      "date": "07.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "JzlhfAIf1jc",
+      "city": "Akureyri",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "26.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "h2MuyBHfH9I",
+      "city": "Garðabær",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "14.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "9vNN7CTlyTg",
+      "city": "Mosfellsbær",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "fq70NflRDTk",
+      "city": "Árborg",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "31.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "8N1inLDzoKg",
+      "city": "Akranes",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "22.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "3odumGA73Fg",
+      "city": "Seltjarnarnes",
+      "predicted": "🌤️",
+      "status": "выиграно",
+      "date": "06.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Y-h4713AyrA",
+      "city": "Vestmannaeyjar",
+      "predicted": "☁️",
+      "status": "выиграно",
+      "date": "28.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "1HW4caQBDFc",
+      "city": "Grindavík",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "09.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "qCT4_nb9giU",
+      "city": "Ísafjörður",
+      "predicted": "🌫️",
+      "status": "выиграно",
+      "date": "10.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "HOe58zjNVro",
+      "city": "Húsavík",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "28.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "jzd2E6mT9xw",
+      "city": "Egilsstaðir",
+      "predicted": "🌫️",
+      "status": "проиграно",
+      "date": "19.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "nca0tia2qBw",
+      "city": "Borgarnes",
+      "predicted": "☁️",
+      "status": "проиграно",
+      "date": "30.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "i3SaHwYhA9I",
+      "city": "Seyðisfjörður",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "26.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "EYqZYPEcLk0",
+      "city": "Höfn",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "11.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "_2sqsoSQB1c",
+      "city": "Sauðárkrókur",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "31.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "O-7ymQeiBWc",
+      "city": "Siglufjörður",
+      "predicted": "🌫️",
+      "status": "проиграно",
+      "date": "08.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "nS0uMhu5GcY",
+      "city": "Ólafsvík",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "31.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "sStSQjketSg",
+      "city": "Vík í Mýrdal",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "06.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "-dTAfpI43_4",
+      "city": "Blönduós",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "04.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "4hh_vxGmcyI",
+      "city": "Dalvík",
+      "predicted": "🌤️",
+      "status": "выиграно",
+      "date": "19.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "yXeNlTlMA5Q",
+      "city": "Hella",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "04.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Sb4_0VFllIk",
+      "city": "Hvolsvöllur",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "09.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "iq2U0eOUsWs",
+      "city": "Stykkishólmur",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "27.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "V-avwWJu1E0",
+      "city": "Patreksfjörður",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "09.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "SGJnVIpQBrU",
+      "city": "Bolungarvík",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "30.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Ux5OF_FLKoc",
+      "city": "Fáskrúðsfjörður",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "21.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "V2uReNh0W9k",
+      "city": "Reykjavík",
+      "predicted": "❄️",
+      "status": "выиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "4hKCcRMbkVM",
+      "city": "Kópavogur",
+      "predicted": "🌤️",
+      "status": "проиграно",
+      "date": "25.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Hx3iZ1sAqIU",
+      "city": "Hafnarfjörður",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "29.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "TLnP39q09bE",
+      "city": "Reykjanesbær",
+      "predicted": "🌧️",
+      "status": "выиграно",
+      "date": "31.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "aHKIxGjr78s",
+      "city": "Akureyri",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "26.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "01338OKEaG0",
+      "city": "Garðabær",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "27.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "7m9z3f7rhMQ",
+      "city": "Mosfellsbær",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "06.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "LZ6uCoGFoog",
+      "city": "Árborg",
+      "predicted": "⛈️",
+      "status": "проиграно",
+      "date": "05.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "JdqogQLnsjk",
+      "city": "Akranes",
+      "predicted": "🌫️",
+      "status": "выиграно",
+      "date": "21.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "ReCQQ2vAhG8",
+      "city": "Seltjarnarnes",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "05.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "x3n3WnKVPQk",
+      "city": "Vestmannaeyjar",
+      "predicted": "☁️",
+      "status": "проиграно",
+      "date": "08.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "--K5BfXuHfY",
+      "city": "Grindavík",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "07.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "72526EaMYLA",
+      "city": "Ísafjörður",
+      "predicted": "☁️",
+      "status": "проиграно",
+      "date": "25.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "GOWg5aVtwLw",
+      "city": "Húsavík",
+      "predicted": "🌤️",
+      "status": "проиграно",
+      "date": "14.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "YFjxAW9KKzk",
+      "city": "Egilsstaðir",
+      "predicted": "☁️",
+      "status": "выиграно",
+      "date": "16.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "5Hdgfm9ZweA",
+      "city": "Borgarnes",
+      "predicted": "⛈️",
+      "status": "проиграно",
+      "date": "28.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "6x1OqmrKjSY",
+      "city": "Seyðisfjörður",
+      "predicted": "☀️",
+      "status": "выиграно",
+      "date": "01.04.2026",
+      "isOwn": false
+    },
+    {
+      "id": "F47L3KN-HRY",
+      "city": "Höfn",
+      "predicted": "⛈️",
+      "status": "выиграно",
+      "date": "25.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "cjp95hED0pY",
+      "city": "Sauðárkrókur",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "12.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "tU4FSSZryi0",
+      "city": "Siglufjörður",
+      "predicted": "❄️",
+      "status": "выиграно",
+      "date": "02.04.2026",
+      "isOwn": false
+    },
+    {
+      "id": "7coRZBtlQCk",
+      "city": "Ólafsvík",
+      "predicted": "❄️",
+      "status": "проиграно",
+      "date": "14.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Tc1Wc2P66t8",
+      "city": "Vík í Mýrdal",
+      "predicted": "🌤️",
+      "status": "выиграно",
+      "date": "12.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "V9bGtr3fq1s",
+      "city": "Blönduós",
+      "predicted": "☀️",
+      "status": "проиграно",
+      "date": "08.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Ngh5SN2DA8I",
+      "city": "Dalvík",
+      "predicted": "☁️",
+      "status": "проиграно",
+      "date": "25.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "Z8OULHliRcY",
+      "city": "Hella",
+      "predicted": "❄️",
+      "status": "выиграно",
+      "date": "17.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "UfwINnWDPqY",
+      "city": "Hvolsvöllur",
+      "predicted": "☁️",
+      "status": "проиграно",
+      "date": "26.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "2ELvBh_szLw",
+      "city": "Stykkishólmur",
+      "predicted": "⛈️",
+      "status": "проиграно",
+      "date": "12.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "ldzuOmf1fTc",
+      "city": "Patreksfjörður",
+      "predicted": "🌧️",
+      "status": "проиграно",
+      "date": "13.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "SZ3X8QeiQuM",
+      "city": "Bolungarvík",
+      "predicted": "🌤️",
+      "status": "проиграно",
+      "date": "19.03.2026",
+      "isOwn": false
+    },
+    {
+      "id": "uslUnlyQ3b4",
+      "city": "Fáskrúðsfjörður",
+      "predicted": "☁️",
+      "status": "выиграно",
+      "date": "26.03.2026",
+      "isOwn": false
+    },
+    {
+      "city": "Akureyri",
+      "predicted": "🌧️",
+      "status": "принято",
+      "date": "03.04.2026",
+      "isOwn": true,
+      "id": "N7l0KoXAYo4"
+    },
+    {
+      "city": "Reykjanesbær",
+      "predicted": "🌦️",
+      "status": "принято",
+      "date": "03.04.2026",
+      "isOwn": true,
+      "id": "SgaQzIcVjm4"
+    },
+    {
+      "city": "Akureyri",
+      "predicted": "❄️",
+      "status": "принято",
+      "date": "03.04.2026",
+      "isOwn": true,
+      "id": "flIbQReCmW0"
+    },
+    {
+      "city": "Reykjanesbær",
+      "predicted": "🌦️",
+      "status": "принято",
+      "date": "03.04.2026",
+      "isOwn": true,
+      "id": "CayXB6NhMME"
+    },
+    {
+      "city": "Akureyri",
+      "predicted": "🌫️",
+      "status": "принято",
+      "date": "03.04.2026",
+      "isOwn": true,
+      "id": "fhGdt9XSHpQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
